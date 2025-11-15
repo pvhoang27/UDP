@@ -1,0 +1,4 @@
+Data type
+String
+object
+2 dạng dau giong nhau
