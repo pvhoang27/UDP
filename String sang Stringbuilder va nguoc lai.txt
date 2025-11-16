@@ -1,0 +1,7 @@
+String -> Stringbuilder
+String chuoiGoc = "Đây là một chuỗi.";
+StringBuilder sb = new StringBuilder(chuoiGoc);
+
+nguoc lai 
+String chuoiGoc = stringBuilder.toString();
+hoặc dung append
