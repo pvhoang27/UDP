@@ -1,0 +1,8 @@
+isLetter(char ch): Kiem tra xem co phai la chu cai (a-z, A-Z) khong. Vi du: isLetter('A') -> true
+isDigit(char ch): Kiem tra xem co phai la chu so (0-9) khong. Vi du: isDigit('7') -> true
+isWhitespace(char ch): Kiem tra xem co phai la khoang trang (space, tab, xuong dong) khong. Vi du: isWhitespace(' ') -> true
+isUpperCase(char ch): Kiem tra xem co phai la chu hoa khong. Vi du: isUpperCase('H') -> true
+isLowerCase(char ch): Kiem tra xem co phai la chu thuong khong. Vi du: isLowerCase('h') -> true
+toUpperCase(char ch): Chuyen ky tu sang chu hoa. Vi du: toUpperCase('b') -> 'B'
+toLowerCase(char ch): Chuyen ky tu sang chu thuong. Vi du: toLowerCase('K') -> 'k'
+toString(char ch): Chuyen doi mot ky tu thanh mot doi tuong String. Vi du: toString('X') -> "X"
