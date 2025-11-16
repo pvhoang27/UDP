@@ -44,6 +44,7 @@ public class B21DCCN393_Rea068Dw_TimMinMaxa1dena50 {
 //        int max_gt = Integer.MIN_VALUE;
 //        int min_gt = Integer.MAX_VALUE;
 //        for(int i = 0 ; i < num.length; i++){
+               // chuyen thanh kieu int 
 //            int a = Integer.parseInt(num[i].trim());
 //            max_gt = Math.max(max_gt, a);
 //            min_gt = Math.min(min_gt, a);
@@ -52,6 +53,7 @@ public class B21DCCN393_Rea068Dw_TimMinMaxa1dena50 {
         // cách 2 : tôi sẽ sort rồi lấy vị trí đầu và cuối làm min max là xong
         int [] a = new int[num.length];
         for(int i = 0 ; i < num.length; i++){
+            // chuyen thanh kieu int thi moi sort dc 
             a[i] = Integer.parseInt(num[i].trim());
         }
         //hàm sort có sẵn
