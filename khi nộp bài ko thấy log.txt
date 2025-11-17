@@ -1,0 +1,2 @@
+nhớ nhìn lại msv , qcode ,host ,port
+khi submit cũng nhìn lại những giá trị do 1 lan nua , nho submit nham thi cung ko co log 
