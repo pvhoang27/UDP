@@ -10,7 +10,7 @@
 //•	str1,str2 lần lượt là chuỗi thứ nhất và chuỗi thứ hai
 //c.	Loại bỏ các ký tự trong chuỗi thứ nhất mà xuất hiện trong chuỗi thứ hai, giữ nguyên thứ tự xuất hiện. Gửi thông điệp là một chuỗi lên server theo định dạng "requestId;strOutput", trong đó chuỗi strOutput là chuỗi đã được xử lý ở trên.
 //d.	Đóng socket và kết thúc chương trình.
-package String;
+package luyentap;
 import java.util.*;
 import java.net.*;
 import java.io.*;

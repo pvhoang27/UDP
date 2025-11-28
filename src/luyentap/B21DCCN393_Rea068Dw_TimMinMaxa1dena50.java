@@ -9,7 +9,7 @@
 //-	a1 -> a50 là 50 số nguyên ngẫu nhiên
 //c.	Thực hiện tìm giá trị lớn nhất và giá trị nhỏ nhất thông điệp trong a1 -> a50 và gửi thông điệp lên lên server theo định dạng “requestId;max,min”
 //d.	Đóng socket và kết thúc chương trình
-package Data_Type;
+package luyentap;
 import java.util.*;
 import java.net.*;
 import java.io.*;

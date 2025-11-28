@@ -13,7 +13,7 @@
 //c. Thực hiện tính tổng hai số nhị phân nhận được, chuyển về dạng thập phân và gửi lên server theo định dạng “requestId;sum”
 //Kết quả: requestId;72130 
 //d. Đóng socket và kết thúc chương trình.
-package String;
+package luyentap;
 import java.util.*;
 import java.net.*;
 import java.io.*;
