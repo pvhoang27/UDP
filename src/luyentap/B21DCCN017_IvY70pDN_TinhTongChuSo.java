@@ -13,7 +13,7 @@
 //c. Tính tổng các chữ số trong num và gửi lại tổng này về server theo định dạng "requestId;sumDigits".
 //
 //d. Đóng socket và kết thúc chương trình.
-package Data_Type;
+package luyentap;
 import java.net.*;
 import java.util.*;
 import java.io.*;
